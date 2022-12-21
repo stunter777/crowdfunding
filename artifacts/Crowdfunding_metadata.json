@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"crowdfunding/Crowdfunding.sol": "Crowdfunding"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/IERC20.sol": {
+			"keccak256": "0x01417f5ffa07bd5e6277831a04ab8fb676db01f784f7fe9b7fe60aa49e62bb38",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://b2205ced6b24bdec036070a9dbfb79b69a4db4737550d16abdbf43048531f762",
+				"dweb:/ipfs/QmcCzorznkERBJAKK3856Ef1C3wDTSSCWLeRzCvMQU15cR"
+			]
+		},
+		"crowdfunding/Crowdfunding.sol": {
+			"keccak256": "0xfa71d3ebd878c9e18600f07570dba59b454e61d7c0af8db7f28af5343e13b530",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://1e0c17216218edc2030c533844b3f67ac8eeda6e2efaf4c9eab3a5b6f41be722",
+				"dweb:/ipfs/QmY1iGBQap6KB5LatvSfbKPGFuJYBBRJWgTZUSHoqESYsW"
+			]
+		}
+	},
+	"version": 1
+}
