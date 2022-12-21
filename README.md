@@ -1,0 +1,2 @@
+# crowdfunding
+ simple crowdfunding algorithm
